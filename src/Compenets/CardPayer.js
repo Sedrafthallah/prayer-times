@@ -84,7 +84,7 @@ export function CardPayer() {
       {time && (
         <>
           <DatesPrayer name="Fajr" time={time.Fajr} />
-          <DatesPrayer name="Dhuhr" time={time.Dhuhr} />
+          <DatesPrayer name="Dhur" time={time.Dhuhr} />
           <DatesPrayer name="Asr" time={time.Asr} />
           <DatesPrayer name="Maghrib" time={time.Maghrib} />
           <DatesPrayer name="Isha" time={time.Isha} />
