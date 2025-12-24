@@ -10,6 +10,7 @@ export default function DatesPrayer({ name, time }) {
         backgroundColor: "#dd5d3dff",
         color: "white",
         borderRadius: "7px",
+        flexWrap: "wrap",
       }}
     >
       <p>{name}</p>
